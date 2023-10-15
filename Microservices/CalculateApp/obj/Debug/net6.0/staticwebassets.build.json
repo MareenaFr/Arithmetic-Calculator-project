@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RSKDLFeXZCwIEqXBWI/Gs2QNsRMKzPNUgt75tbCM9c8=",
+  "Source": "CalculateApp",
+  "BasePath": "_content/CalculateApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
